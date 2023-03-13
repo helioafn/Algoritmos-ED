@@ -5,7 +5,7 @@ O projeto está organizado da seguinte maneira:
 <ul>
     <li>Cada capitulo corresponde a um modulo do projeto</li>
     <li>
-    Cada package podem ou não possuir outros packages aninhados que correspondem a exercícios de 
+    Cada módulo pode ou não possuir outros módulos aninhados que correspondem a exercícios de 
     fixação ou a lista de exercícios do capítulo em si.
     </li>
 </ul>
